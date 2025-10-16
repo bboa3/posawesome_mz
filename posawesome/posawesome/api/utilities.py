@@ -435,10 +435,11 @@ def _set_active_session_language(lang_code: str) -> None:
 
 # Language display names mapping (moved to module level for reuse)
 LANGUAGE_NAMES = {
+    "pt-mz": "Português (Moçambique)",
+    "pt": "Português",
     "en": "English",
     "ar": "العربية",
     "es": "Español",
-    "pt": "Português",
     "fr": "Français",
     "de": "Deutsch",
     "it": "Italiano",

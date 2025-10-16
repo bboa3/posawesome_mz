@@ -7,7 +7,6 @@ import json
 import frappe
 from frappe.utils import cint, nowdate
 from frappe import _
-from .utilities import get_version
 
 
 @frappe.whitelist()
@@ -40,7 +39,14 @@ def get_opening_dialog_data():
     for i in data["pos_profiles_data"]:
         pos_profiles_list.append(i.name)
 
-    payment_method_table = "POS Payment Method" if get_version() == 13 else "Sales Invoice Payment"
+    # Lazy import to avoid circular import during package initialization
+    try:
+        from .utilities import get_version as _get_version
+        version = _get_version()
+    except Exception:
+        # Fallback to 13 if version cannot be determined at this point
+        version = 13
+    payment_method_table = "POS Payment Method" if version == 13 else "Sales Invoice Payment"
     data["payments_method"] = frappe.get_list(
         payment_method_table,
         filters={"parent": ["in", pos_profiles_list]},
