@@ -166,7 +166,6 @@ Before Submit,Antes de enviar
 Benefits,Benefícios
 Billing,Faturamento
 Birth Date,Data de nascimento
-Birthday (DD-MM-YYYY),Aniversário (DD-MM-AAAA)
 Blocked,Bloqueado
 Block Modules,Bloquear Módulos
 blue,azul
@@ -289,7 +288,6 @@ Continue Editing,Continuar Editando
 Contract,Contrato
 Contributed,Contribuído
 Contribution Document Name,Nome do documento de contribuição
-Conversion Rate,Taxa de Conversão
 Copyright,Direitos autorais
 Could not fetch latest balance from server,Não foi possível obter o saldo mais recente do servidor
 Counter,Contador
@@ -325,7 +323,6 @@ Customer creation failed.,Falha ao criar cliente.
 Customer Group,Grupo de Clientes
 Customer group is required,Grupo de cliente é obrigatório
 Customer Ledger Summary,Resumo do Razão de Clientes
-Customer Name,Nome do Cliente
 Customer Name is required,Nome do Cliente é obrigatório
 Customer saved offline,Cliente guardado offline
 Customer territory is required,Território do cliente é obrigatório
@@ -344,10 +341,10 @@ Daily Work Summary Replies,Respostas de Resumos Diários de Trabalho
 Danger,Perigo
 Dark Color,Cor Escura
 Dark Mode,Modo Escuro
-Data,Dados
 Database Health,Saúde da Base de Dados
 Database health affects overall system speed and reliability.,A saúde da base de dados afeta a velocidade e confiabilidade geral do sistema.
 Database Info,Informações da Base de Dados
+Data,Dados
 Date,Data
 Date and Number Format,Data e Formato de número
 Date Format,Formato de Data
@@ -376,8 +373,6 @@ Delayed Tasks Summary,Resumo de Tarefas Atrasadas
 Delete,Excluir
 Deleted Name,Nome Excluído
 Delete Invoice,Eliminar Fatura
-Delivery Charges,Taxas de Entrega
-Delivery Charges Rate,Taxa de Entrega
 Delivery Information,Informações de Entrega
 Delivery Note,Guia de Remessa
 Department,Departamento
@@ -440,7 +435,6 @@ Email Address,Endereço de e-mail
 Email Address (Will be your login ID),Endereço de Email (será o seu ID de acesso)About,Sobre
 Email Campaign,Campanha de Email
 Email Group,Grupo de Emails
-Email Id,Email
 Email Inbox,Caixa de Entrada
 Email Sent At,E-mail enviado em
 Employee,Funcionário
@@ -579,7 +573,6 @@ From Full Name,De nome completo
 Full,Cheio
 Full Name,Nome Completo
 Full Width,Largura completa
-Gender,Género
 General Ledger,Razão Geral
 Generate Keys,Gerar Chaves
 Geolocation,Geolocalização
@@ -696,7 +689,6 @@ Invalid Login. Try again.,Início de sessão inválido. Tente novamente.
 Invalid URL,URL inválida
 Inverse,Inverso
 Invoice,Fatura
-Invoice ID,ID da Fatura
 Invoices,Faturas
 Invoice saved offline,Fatura guardada offline
 Invoices saved as POS Invoices,Faturas guardadas como Faturas POS
@@ -725,7 +717,6 @@ Is Unique,É único
 Item,Artigo
 Item Category,Categoria de Artigos
 Item Code,Código do Artigo
-Items Discounts,Descontos de Artigos
 Item Group,Grupo de Artigos
 Item Name,Nome do Artigo
 Item not found,Artigo não encontrado
@@ -843,8 +834,6 @@ Logout From All Devices After Changing Password,Saia de todos os dispositivos ap
 Long Text,Texto Longo
 Low,Baixo
 Loyalty Point Offer Applied,Oferta de Pontos de Lealdade Aplicada
-Loyalty Points,Pontos de Fidelidade
-Loyalty Program,Programa de Fidelidade
 Madam,Senhora
 Main Section,Seção Principal
 Main Section (HTML),Seção Principal (HTML)
@@ -866,7 +855,6 @@ Masters,Tabelas
 Masters & Reports,Tabelas & Relatórios
 Max Attachments,Máx. de Anexos
 Maximum,Máximo
-Maximum Amount,Valor Máximo
 Maximum Number of Fields,Número Máximo de Campos
 Max Length,Comprimento máximo
 Max Value,Max Valor
@@ -882,13 +870,11 @@ Message Sent,Mensagem Enviada
 Method,Método
 Middle Name,Nome do Meio
 Minimum,Mínimo
-Minimum Amount,Valor Mínimo
 Miss,Senhorita
 Missing Values Required,Faltando Valores Obrigatórios
 mm/dd/yyyy,mm/dd/aaaa
 Mobile,Móvel
 Mobile No,Telemóvel
-Mobile Number,Número de Telemóvel
 Mode,Modo
 Mode of Payment,Modo de Pagamento
 module,módulo
@@ -925,7 +911,6 @@ No data to export,Nenhum dado para exportar
 no failed attempts,tentativas não falharam
 No invoices found,Nenhuma fatura encontrada
 No invoices found. Try different search criteria.,Nenhuma fatura encontrada. Tente diferentes critérios de pesquisa.
-No items in cart,Sem artigos no carrinho
 Non-Conforming,Não conforme
 None,Nenhum
 Non Negative,Não Negativo
@@ -975,7 +960,6 @@ Options Help,Ajuda sobre Opções
 or,ou
 orange,laranja
 Order,Pedido
-Order ID,ID do Pedido
 Org History,História da Organização
 Org History Heading,Cabeçalho da História da Organização
 Other,Outro
@@ -1052,7 +1036,6 @@ Port,Porta
 POS,POS
 Position,Posição
 Position the QR code or barcode within the scanning area,Posicione o código QR ou código de barras dentro da área de escaneamento
-Posting Date,Data de Lançamento
 Precision,Precisão
 Prefer not to say,Prefiro não dizer
 Preferred Billing Address,Endereço preferido de faturamento
@@ -1144,7 +1127,6 @@ Reference name,Nome de Referência
 Reference Name,Nome de Referência
 Reference Owner,Proprietário de Referência
 Reference Report,Relatório de referência
-Referral Code,Código de Referência
 Refresh,Atualizar
 Refresh Google Sheet,Atualizar planilha do Google
 Relinked,Religado
@@ -1238,10 +1220,7 @@ Scheduled Job,Trabalho agendado
 Scheduler Inactive,Agendador Inativo
 Scheduler is inactive. Cannot import data.,O agendador está inativo. Não é possível importar dados.
 Search,Pesquisar
-Search by Mobile,Procurar por Telemóvel
-Search by Name,Procurar por Nome
 Search Fields,Campos de Pesquisa
-Search Items,Procurar Artigos
 Search Mpesa Payments,Procurar Pagamentos M-Pesa
 Search Priorities,Prioridades de pesquisa
 Section,Seção
@@ -1454,7 +1433,6 @@ Title Field,Campo Título
 Title Prefix,Prefixo do Título
 To,Para
 To and CC,Para e CC
-To Be Paid,A Pagar
 To Date,Até a Data
 To Date Field,Até o momento do campo
 Token,Símbolo
@@ -1603,6 +1581,7 @@ Web Form Fields,Campos de formulário Web
 Website,Site
 Website Manager,Administrador do Site
 Website Theme Image,Imagem do Tema do Site
+Website Item,Artigo do Site
 Weekdays,Dias da Semana
 Weekly,Semanalmente
 Weekly Long,Semanalmente Longo
